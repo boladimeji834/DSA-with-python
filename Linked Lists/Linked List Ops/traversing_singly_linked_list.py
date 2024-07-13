@@ -10,7 +10,7 @@ class Node:
 node1 = Node(4)
 node2 = Node(7)
 node3 = Node(9)
-node4 = Node(3)
+node4 = Node(2)
 
 # Links the nodes together
 node1.next = node2
